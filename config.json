@@ -1,0 +1,16 @@
+{
+  "vars": {},
+  "css": [
+    "responsive-utilities.less",
+    "labels.less",
+    "alerts.less",
+    "media.less",
+    "list-group.less",
+    "responsive-embed.less",
+    "component-animations.less",
+    "tooltip.less",
+    "popovers.less",
+    "modals.less"
+  ],
+  "js": []
+}
